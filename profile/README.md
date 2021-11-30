@@ -4,3 +4,7 @@
 <img src="https://www.t3g.pl/wp-content/uploads/cropped-TTduzy-1.png">
 </p>
 </a>
+
+<p align="center">
+A group of people taking part in "Turniej Trójgamiczny" competition.
+</p>
